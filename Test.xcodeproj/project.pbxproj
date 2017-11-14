@@ -38,8 +38,8 @@
 		D98AB89F1FBB591F0074FD66 = {
 			isa = PBXGroup;
 			children = (
-				D98AB8AA1FBB591F0074FD66 /* Test */,
 				D98AB8A91FBB591F0074FD66 /* Products */,
+				D98AB8AA1FBB591F0074FD66 /* Test */,
 			);
 			sourceTree = "<group>";
 		};
